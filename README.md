@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stephenjohnlimb
 - 💞️ I’m looking to collaborate on a programming language called EK9
-- 📫 How to reach me on github or email stephenjohnlimb@gmail.com
+- 📫 Reach me on github, email stephenjohnlimb@gmail.com or follow @stephenjohnlimb on twitter
 
 See [EK9](https://www.ek9lang.org) for much more detail on what this new language covers.
 
